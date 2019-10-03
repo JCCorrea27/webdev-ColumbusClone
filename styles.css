@@ -1,1 +1,177 @@
-/* CSS code  */
+body{
+    margin: 0px
+}
+ul li {
+    list-style-type: none;
+    display: inline;
+    margin: 0px 5px
+
+}
+ul{
+    margin: 0px;
+    display: block;
+}
+#aboutus{
+    padding-top: 22px;
+}
+#admissions{
+    padding-top: 22px;
+}
+#academic{
+    padding-top: 22px;
+}
+#faith{
+    padding-top: 22px;
+}
+#student{
+    padding-top: 22px;
+}
+#guidance{
+    padding-top: 22px;
+}
+#athletics{
+    padding-top: 22px;
+}
+.nav{
+    display: block;
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 11px 10px;
+    letter-spacing: .8px;
+    font-size: 1rem;
+    line-height: 25px;
+    text-shadow: rgb(51, 51, 51);
+    list-style-position: outside;
+
+}
+
+.navigation{
+    background-image: url(images/bg.png);
+    background-color: 10243b;
+    margin: 0px;
+    padding: 0px;
+    height: 64px;
+    width: 100%;
+
+}
+.bluebox{
+    background-color: 005983;
+
+
+}
+#blueboxtext{
+    color: white;
+    display: inline-block;
+    position: relative;
+    font-weight: 700;
+    font-family: 'open sans', sans-serif;
+text-transform: uppercase;
+padding: 14px 5.5px;
+font-size: 14px;
+letter-spacing: 0.8px;
+line-height: 22.4px;
+text-align: right;
+text-shadow: rgb(51, 51, 51) 0px 2px 3px;
+}
+#split{
+    margin: 0px 120px 0px 0px;
+    display: inline;
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: left;
+
+
+}
+#half{
+    display: inline;
+    color: #a3dde8;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+#logo{
+    width: 60px;
+}
+#herosection{
+    background-image: url(images/science.png);
+    height: 875px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*Explore CCHS */
+
+#explorecchs{
+    height: 500px;
+    width: 100%;
+    background-color: #10243b;
+}
+#exploreheading{
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    letter-spacing: .05rem;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+#explorebody{
+    height: 420px;
+    width: 100%;
+    background-color: #10243b;
+}
+.imagebox{
+    height: 400px;
+    width: 25%;
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
+
+
+}
+#patriot{
+    background-image: url(images/patriots\ plaza.jpg);
+}
+#college{
+    background-image: url(images/college.png);
+}
+#ccnn{
+    background-image: url(images/ccnn.jpg)
+}
+#live{
+    background-image: url(images/ccnn\ live.png)
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+
+/* AT A GLANCE*/
+
+#araglance{
+    width: 100%;
+    background-color: white;
+    float: left;
+    color: rgb(0, 52, 76);
+    text-align: center;
+}
+.glanceimages{
+    margin: 0px;
+    width: 288px;
+    height: 288px;
+    display: inline-block;
+    background-size: cover;
+
+}
+.imagesize{
+    width: 288px;
+    
+}
